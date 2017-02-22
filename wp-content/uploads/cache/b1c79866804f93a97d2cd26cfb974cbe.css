@@ -1,0 +1,144 @@
+.offers_voucher_bl {
+    margin-top: 13px;
+    background-color: #FFF;
+    padding: 13px;
+    border: 1px solid #f1f1f1;
+}
+
+.offers-details {
+    width: 100%;
+    overflow: hidden;
+}
+
+.offers-details {
+    font-size: 13px;
+    margin-bottom: 22px;
+}
+.polyxgo_get_coupon.pull-right {
+    display: block;
+    width: 100%;
+}
+
+.pull-right {
+    float: right;
+}
+.pull-right {
+    float: right!important;
+}
+.polyxgo_get_coupon {
+    padding: 16px 0px;
+}
+.btn-your-voucher-code .code-coupon {
+    vertical-align: middle;
+    padding: 3px 7px 6px;
+    border-radius: 0 1px 1px 0;
+    -webkit-transition: background-color 250ms,border-color 250ms;
+    transition: background-color 250ms,border-color 250ms;
+    background-color: #fff;
+    text-align: right;
+    background-clip: padding-box;
+    border: 1px solid #ff531a;
+    position: absolute;
+    top: 17px;
+    right: 16px;
+    direction: rtl;
+    height: 34px;
+    -o-user-select: "none";
+    -webkit-user-select: "none";
+    -moz-user-select: "none";
+    -ms-user-select: "none";
+    user-select: "none";
+    cursor: pointer;
+}
+span.coupon-button {
+    display: inline-block;
+    width: 100%;
+    height: 34px;
+    padding-left: 10px;
+    line-height: 32px;
+    text-align: left;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    text-transform: uppercase;
+}
+.btn-your-voucher-code .code-coupon::before {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background: -webkit-linear-gradient(52deg,#e63900 0,#b24723 49%,rgba(0,122,198,0) 50%,rgba(255,255,255,0) 100%) 0 6px no-repeat;
+    background: linear-gradient(38deg,#e63900 0,#b24723 49%,rgba(0,122,198,0) 50%,rgba(255,255,255,0) 100%) 0 6px no-repeat;
+    border-radius: 6px;
+    height: 35px;
+    position: absolute;
+    right: 9px;
+    top: 4px;
+    width: 35px;
+    z-index: 1;
+    -webkit-transform: rotateZ(22deg) translate(0,-10px) scaleX(.9);
+    transform: rotateZ(22deg) translate(0,-10px) scaleX(.9);
+    -webkit-transition: -webkit-transform 250ms ease 0s,background-position 250ms ease 0s;
+    transition: transform 250ms ease 0s,background-position 250ms ease 0s;
+    content: "";
+}
+.btn-your-voucher-code:hover {
+    background: #ff531a;
+}
+.btn-good-luck-to-you:hover, .btn-your-voucher-code:hover {
+    border: 1px solid #f37022;
+    background: #fff;
+    color: #f37022 !important;
+}
+.btn-your-voucher-code:hover .code-coupon::after {
+    right: 39px;
+    background-color: #ff531a;
+}
+.btn-your-voucher-code .code-coupon::after {
+    background-color: #f63;
+    bottom: -2px;
+    height: 34px;
+    right: 26px;
+    position: absolute;
+    width: 45px;
+    -webkit-transform: skew(26deg,0deg);
+    transform: skew(26deg,0deg);
+    -webkit-transition: right 250ms ease 0s;
+    transition: right 250ms ease 0s;
+    content: "";
+}
+.btn-your-voucher-code {
+    border: 1px solid #ff531a;
+    background: #ff531a;
+    padding: 0px 0px;
+}
+.btn-your-voucher-code {
+    width: 100%;
+}
+.btn-your-voucher-code {
+    transition: background-color 250ms,border-color 250ms;
+}
+.btn-your-voucher-code {
+    border-radius: 0;
+    border: 1px solid #f37022;
+    background: #f37022;
+    color: #fff !important;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+}
+.polyxgo_discount {
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.polyxgo_discount {
+    border-right: 1px solid #f2f2f2;
+    vertical-align: middle;
+    color: #f63;
+    font-size: 24px;
+    height: 80px;
+    text-align: center;
+} 
